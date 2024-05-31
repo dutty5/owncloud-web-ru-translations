@@ -1,4 +1,4 @@
-# owncloud-web-ru-translations
+# ownCloud web client Russian translations
 This is a mostly automated Russian translation to fix the missing Russian UI translations in the ownCloud Infinite Scale web client.
 
 ### How to use
