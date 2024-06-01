@@ -56,3 +56,7 @@ It's worth mentioning how the OnlyOffice external app is added to the oCIS web-c
       "path": "com.owncloud.api.app-provider-onlyoffice"
     }, ...
 ```
+
+### Screenshots
+
+Few screenshots are available in [screenshots](screenshots) folder.
