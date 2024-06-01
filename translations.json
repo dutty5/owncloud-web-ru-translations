@@ -10,7 +10,7 @@
     ],
     "%{ displayIndex } of %{ availableMediaFiles }": "%{ displayIndex } из %{ availableMediaFiles }",
     "%{ errors } of %{ uploads } item failed": [
-        "%{ errors } из %{ uploads } элемент не удалось",
+        "%{ errors } из %{ uploads } элемента не удалось",
         "%{ errors } из %{ uploads } элементов не удалось"
     ],
     "%{ filesCount } file": [
