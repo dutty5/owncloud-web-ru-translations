@@ -1,5 +1,5 @@
-# ownCloud web client Russian translations
-This is a mostly automated Russian translation to fix the missing Russian UI translations in the ownCloud Infinite Scale web client. Feel free to edit.
+# ownCloud web-client Russian translations
+This is a mostly automated Russian translation to fix the missing Russian UI translations in the ownCloud Infinite Scale web-client. Feel free to edit.
 
 ### How to use
 
@@ -42,7 +42,7 @@ to
       "lang": queryParams.ui || queryParams.lang || "en-US",
       "region": queryParams.ui || queryParams.rs,
 ```
-to give the `ui` variable the precedence.
+to give the `ui` variable the precedence. (However, if you need to keep the 4-character regional language code for other languages in your environment, you can use more complex code in `editor-wopi.ejs` to set the `region` variable.)
 
 Don't forget to mention the OnlyOffice external app in the oCIS web-client config json file as follows:
 ```
