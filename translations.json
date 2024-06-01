@@ -1,4 +1,5 @@
-{"ru":{
+{
+  "ru": {
     "\"%{appName}\" app content area": "Область контента \"%{appName}\"",
     "\"%{fileName}\" was created successfully": "Файл \"%{fileName}\" был успешно создан",
     "\"%{file}\" was deleted successfully": "\"%{file}\" был успешно удален",
@@ -1277,4 +1278,5 @@
     "⌘ + C": "⌘ + C",
     "⌘ + V": "⌘ + V",
     "⌘ + X": "⌘ + X"
-}}
+  }
+}
