@@ -59,4 +59,4 @@ It's worth mentioning how the OnlyOffice external app is added to the oCIS web-c
 
 ### Screenshots
 
-Few screenshots are available in [screenshots](screenshots) folder.
+Few screenshots are available in [screenshots](https://github.com/dutty5/owncloud-web-ru-translations/blob/main/screenshots) folder.
