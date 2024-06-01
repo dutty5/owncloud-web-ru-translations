@@ -42,7 +42,7 @@ to
       "lang": queryParams.ui || queryParams.lang || "en-US",
       "region": queryParams.ui || queryParams.rs,
 ```
-to give the `ui` variable the precedence. (However, if you need to keep the 4-character regional language code for other languages in your environment when it is provided, you can use more complex code in `editor-wopi.ejs` to set the `region` variable. The above approach just gives you a quick workaround. Feel free to open a discussion if you know where to fix the root cause of incorrectly set `lang` variable.)
+to give the `ui` variable the precedence. (However, if you need to keep the 4-character regional language code for other languages in your environment when it is provided, you can use more complex code in `editor-wopi.ejs` to set the `region` variable. The above approach just gives you a quick workaround until the bug fixed somewhere upstream. Feel free to open a discussion if you know where to fix the root cause of incorrectly set `lang` variable.)
 
 Don't forget to mention the OnlyOffice external app in the oCIS web-client config json file as follows:
 ```
